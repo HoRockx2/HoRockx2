@@ -10,6 +10,7 @@
       - Learning nomad coder course.
     - Client
       - flutter
+      - Windows (c#, upf, winform)
 
 <!---
 HoRockx2/HoRockx2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
